@@ -3,6 +3,7 @@ spring-vertx-rxjava-jooq
 ##### performance optimization
 #### spring:
  for annotation, auto init bean 
+ and custom annotation for vertx api
 #### vertx:
  for using event bus to handle with api
 #### rxjava:
