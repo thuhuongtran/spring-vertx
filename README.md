@@ -1,4 +1,4 @@
-# spring-vertx
+# Spring with Vertx integration
 spring-vertx-rxjava-jooq 
 ##### performance optimization
 #### spring:
@@ -9,5 +9,6 @@ spring-vertx-rxjava-jooq
 #### rxjava:
  for using asynchronous function to handle complex api tasks.
 #### jooq:
- for flexibility sql query
+ - for flexibility sql query
+ - autogenerate java entity class
  
